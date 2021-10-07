@@ -1,2 +1,2 @@
-# notebooks
+# Notebooks
 Sourcegraph - Customer Engineer Notebooks
